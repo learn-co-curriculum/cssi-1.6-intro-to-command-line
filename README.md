@@ -15,23 +15,23 @@ Back in the day (the 1980s!), computers only had a terminal to control them. Lat
 
 #Lesson Plan
 You're going to learn about the command line by planning for a trip.
-1. Open Terminal- Either click the icon, or hit Command + space and type Terminal, then click enter. A small white rectangle will appear with the name of your computer, a tilde (~) and your username followed by a $.
-2. You’ll see a tilde: ~. This means you’re in your user's home directory. Directory is another word for folder.
-3. Enter pwd : pwd means print working directory - it tells us where we are.
-4. Enter ls : check what directories are within the directory where you are standing by using
-5. Enter cd: change directories by using the cd <directory-name> command. Change to Desktop directory.
-5. Enter mkdir <directory-name>: makes a new directory. Make a new directory in development called around-the-world.
-6. Enter cd around-the-world: to change directories into around-the-world
-7. Enter mkdir France: creates a directory called France inside of around-the-world
-8. Enter cd France: to change directories into France
-9. Enter mkdir Paris: to create  a directory called Paris inside of France
-10. Enter cd Paris: to change directories into Paris
-11. Enter touch eiffel_tower.txt: to create a text file called eiffel_tower in the Paris directory
-12. Enter touch berlin_wall.txt: to create a text file called berlin_wall in Paris directory
-13. Enter touch pyramids.txt: to create a text file called pyramids in Paris directory
-14. Enter rm berlin_wall.txt: To remove the berlin_wall
-15. Enter mv <file to move> <final destination>: mv pyramids.txt france/around-the-world or my pyramids.txt ../.. You have to list the path of directories in order to move the file to the final destination
-16. Enter cd .. to move up the tree of directories. cd ../.. will bring you up two parent directories
++ Open Terminal- Either click the icon, or hit Command + space and type Terminal, then click enter. A small white rectangle will appear with the name of your computer, a tilde (~) and your username followed by a $.
++ You’ll see a tilde: ~. This means you’re in your user's home directory. Directory is another word for folder.
++ Enter pwd : pwd means print working directory - it tells us where we are.
++ Enter ls : check what directories are within the directory where you are standing by using
++ Enter cd: change directories by using the cd <directory-name> command. Change to Desktop directory.
++ Enter mkdir <directory-name>: makes a new directory. Make a new directory in development called around-the-world.
++ Enter cd around-the-world: to change directories into around-the-world
++ Enter mkdir France: creates a directory called France inside of around-the-world
++ Enter cd France: to change directories into France
++ Enter mkdir Paris: to create  a directory called Paris inside of France
++ Enter cd Paris: to change directories into Paris
++ Enter touch eiffel_tower.txt: to create a text file called eiffel_tower in the Paris directory
++ Enter touch berlin_wall.txt: to create a text file called berlin_wall in Paris directory
++ Enter touch pyramids.txt: to create a text file called pyramids in Paris directory
++ Enter rm berlin_wall.txt: To remove the berlin_wall
++ Enter mv <file to move> <final destination>: mv pyramids.txt france/around-the-world or my pyramids.txt ../.. You have to list the path of directories in order to move the file to the final destination
++ Enter cd .. to move up the tree of directories. cd ../.. will bring you up two parent directories
 
 #Student Activity
 1. Create a directory called "Egypt" in the "around-the-world" directory
