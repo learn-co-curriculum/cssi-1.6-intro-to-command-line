@@ -5,7 +5,7 @@ languages: command line
 ---
 #Intro to the Command Line
 
-#Objective:
+#Objectives:
 Students will be able to navigate their system’s file structure using the CLI (command line interface) in terminal.
 Understand and explain what a terminal is and why we use it
 Navigate and manipulate directories
@@ -13,7 +13,7 @@ Navigate and manipulate directories
 #Motivation / Why Should You Care?
 Back in the day (the 1980s!), computers only had a terminal to control them. Later on, Graphical User Interfaces (GUIs) were created to make computers more accessible and intuitive for those who weren't as computer savvy. Developers continue to use the terminal instead of the GUI because it speeds up development and allows for more fine-grained control.
 
-#Lesson Plan
+#Lesson
 You're going to learn about the command line by planning for a trip.
 + Open Terminal- Either click the icon, or hit Command + space and type Terminal, then click enter. A small white rectangle will appear with the name of your computer, a tilde (~) and your username followed by a $.
 + You’ll see a tilde: ~. This means you’re in your user's home directory. Directory is another word for folder.
