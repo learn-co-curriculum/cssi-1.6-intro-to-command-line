@@ -34,10 +34,10 @@ You're going to learn about the command line by planning for a trip.
 + Enter cd .. to move up the tree of directories. cd ../.. will bring you up two parent directories
 
 #Student Activity
-1) Create a directory called "Egypt" in the "around-the-world" directory
-2) Create a directory called "Cairo" inside the "Egypt" directory
-3) Move "pyramids.txt" into the "Cairo" directory. **Hint: List the path from around-the-world to Cairo**
-4) Stretch: Create a new country, city, and landmark file in the "around-the-world" directory
+##  Create a directory called "Egypt" in the "around-the-world" directory
+##  Create a directory called "Cairo" inside the "Egypt" directory
+##  Move "pyramids.txt" into the "Cairo" directory. **Hint: List the path from around-the-world to Cairo**
+##  Stretch: Create a new country, city, and landmark file in the "around-the-world" directory
 
 #Tips and tricks:
  If you start typing a directory name or file name you can click tab and the command line will automatically fill in the rest of the directory/file name. If you click tap twice it will show you all of the directories/files inside your current directory.
