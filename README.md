@@ -22,26 +22,27 @@ Back in the day (the 1980s!), computers only had a terminal to control them. Lat
 
 #Command Line
 + Open Terminal
-+  ~: The tilde means you’re in your user's home directory.
-+ pwd: pwd means print working directory - it tells us where we are.
-+ ls: check what directories are within the directory where you are standing by using
-+ cd: change directories by using the cd <directory-name> command.
-+ mkdir <directory-name>: makes a new directory.
-+ touch <file-name.extention>: to create a file
-+ Enter rm <file-name>: To remove a file
-+ Enter mv <file to move> <final destination>: to move a file to a new destination. You have to be in the same directory as the file you are moving. Also you have to list the path of directories in order to move the file to the final destination
-+ cd .. to move up one directory.
-+ cd ../.. will bring you up two parent directories
++ ` ~`: the tilde means you’re in your user's home directory.
++ `pwd`: print working directory - it tells us where we are.
++ `ls`: check what directories are within the directory where you are standing by using
++ `cd <directory-name>`: change directory
++ `mkdir <directory-name>`: make a new directory.
++ `touch <file-name.extention>`: create a file
++ `rm <file-name>`: remove a file
++ `mv <file to move> <final destination>`: move a file to a new destination. You have to be in the same directory as the file you are moving. Also you have to list the path of directories in order to move the file to the final destination
++ `cd ..` to move up one directory.
++ `cd ../..` will bring you up two parent directories
 
 # Student Challenge:
 1. Create a directory called "Egypt" in the "around-the-world" directory
-2. Create a directory called "Cairo" inside the "Egypt" directory
-3. Move "pyramids.txt" into the "Cairo" directory. Hint: List the path from around-the-world to Cairo
-4. **Stretch:** Create a new country, city, and landmark file in the "around-the-world" directory
+1. Create a directory called "Cairo" inside the "Egypt" directory
+1. Create a file called "pyramids.txt"
+1. Move "pyramids.txt" into the "Cairo" directory. Hint: List the path from around-the-world to Cairo
+1. **Stretch:** Create a new country, city, and landmark file in the "around-the-world" directory
 
 
 #Tips and tricks:
- If you start typing a directory name or file name you can click tab and the command line will automatically fill in the rest of the directory/file name. If you click tap twice it will show you all of the directories/files inside your current directory.
+ If you start typing a directory name or file name you can click `Tab` and the command line will automatically fill in the rest of the directory/file name. If you click `Tab` twice it will show you all of the directories/files inside your current directory.
  Navigating your computer from the command line is a lot about muscle memory. The more practice you have the faster you will get!
 
 #Conclusion
