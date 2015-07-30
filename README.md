@@ -1,8 +1,4 @@
----
-tags: cssi, basic command line, code along
-level: 1
-languages: command line
----
+
 #Intro to the Command Line
 
 #Prior Knowledge:
