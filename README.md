@@ -44,4 +44,4 @@ Back in the day (the 1980s!), computers only had a terminal to control them. Lat
 #Conclusion
 As we learn to build complicated applications, being able to swiftly navigate your computer using the command line will make your life much easier. The command line will be important not just for navigation, but you'll also use it to do things like boot the local server for your web apps, write scripts to automate tasks, and execute other important functions on your computer.
 
-<a href='https://learn.co/lessons/cssi-1.6-intro-to-command-line' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/cssi-1.6-intro-to-command-line' title='Intro to the Command Line'>Intro to the Command Line</a> on Learn.co and start learning to code for free.</p>
